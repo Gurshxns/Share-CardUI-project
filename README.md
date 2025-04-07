@@ -10,12 +10,13 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/b6afb18a-4a67-427b-a861-f9d8d793d3f5)
+![image](https://github.com/user-attachments/assets/bb3164ff-b8d1-4516-a663-6d74c45eb13c)
+
 
 
 ---
 
-## 🌟 Features
+## Features
 
 - Fully responsive design
 - One-click sharing buttons
@@ -25,6 +26,6 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository: 
