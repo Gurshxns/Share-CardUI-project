@@ -10,7 +10,7 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ## Preview
 
-![image](https://github.com/user-attachments/assets/bb3164ff-b8d1-4516-a663-6d74c45eb13c)
+
 
 
 
