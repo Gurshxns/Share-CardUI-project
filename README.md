@@ -28,4 +28,43 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ## How to Use
 
-1. Clone this repository: 
+1. Clone this repository: https://github.com/Gurshxns/Share-CardUI-project.git
+
+2. Open `index.html` in your browser to see the component in action.
+
+3. Customize icons or styles inside `style.css` to fit your project.
+
+---
+
+### Files Included
+
+- `index.html` – main HTML structure
+- `style.css` – styling for the share card
+- `preview.png` – project screenshot
+- `LICENSE` – MIT License
+- `README.md` – this file
+
+---
+
+## Tech Stack
+
+- HTML5  
+- CSS3  
+
+No frameworks. No external libraries.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to use it in personal or commercial projects — just give proper credit.
+
+---
+
+## Author
+
+Made by **Gurshan Singh**  
+GitHub: [@gurshansinghgithub](https://github.com/gurshansinghgithub)
+
+If you liked this project, please ⭐ the repo!
