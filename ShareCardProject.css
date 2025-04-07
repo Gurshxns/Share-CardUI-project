@@ -1,0 +1,290 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  all: unset;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 40;
+  font-size: 30px;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(255, 191, 73);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerbox {
+  display: grid;
+  /* align-items: center;
+  justify-items: center; */
+  background-color: white;
+  height: 250px;
+  width: 450px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.108);
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 1fr 2fr 1fr 2fr;
+}
+
+#shareto {
+  font-family: "Pacifico";
+  padding-left: 15%;
+  padding-top: 10%;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  /* align-self: center;
+  justify-self: center; */
+  font-size: 131%;
+}
+
+#cross {
+  padding-top: 23%;
+  padding-left: 46%;
+  grid-column-start: 6;
+  grid-column-end: 7;
+  /* align-self: center;
+  justify-self: center; */
+  font-size: 110%;
+  transition: transform 0.2s cubic-bezier(0.25, 1.3, 0.5, 1),
+    color 0.2s cubic-bezier(0.25, 1.3, 0.5, 1);
+}
+
+#cross:hover {
+  transform: scale(1.15);
+  color: #888;
+}
+
+#msgimg {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  display: flex;
+  /* justify-content: end; */
+  align-items: center;
+  transition: filter 0.15s ease-in-out;
+}
+
+#msgimg img {
+  margin-left: 62%;
+  height: 36%;
+  width: auto;
+}
+
+#msgimg img:hover {
+  filter: brightness(0.9);
+}
+
+#telegramimg {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  display: flex;
+  /* justify-content: end; */
+  align-items: center;
+  transition: filter 0.15s ease-in-out;
+}
+
+#telegramimg img {
+  margin-left: 62%;
+  border-radius: 22%;
+  height: 36%;
+  width: auto;
+}
+
+#telegramimg img:hover {
+  filter: brightness(0.9);
+}
+
+#twitterimg {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  display: flex;
+  /* justify-content: end; */
+  align-items: center;
+  transition: filter 0.15s ease-in-out;
+}
+
+#twitterimg img {
+  margin-left: 62%;
+  border-radius: 22%;
+  height: 36%;
+  width: auto;
+}
+
+#twitterimg img:hover {
+  filter: brightness(0.9);
+}
+
+#mailimg {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  display: flex;
+  /* justify-content: end; */
+  align-items: center;
+  transition: filter 0.15s ease-in-out;
+}
+
+#mailimg img {
+  margin-left: 62%;
+  border-radius: 22%;
+  height: 36%;
+  width: auto;
+}
+
+#mailimg img:hover {
+  filter: brightness(0.9);
+}
+
+#whatsappimg {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 5;
+  grid-column-end: 6;
+  display: flex;
+  /* justify-content: end; */
+  align-items: center;
+  transition: filter 0.15s ease-in-out;
+}
+
+#whatsappimg img {
+  margin-left: 62%;
+  border-radius: 22%;
+  height: 36%;
+  width: auto;
+}
+
+#whatsappimg img:hover {
+  filter: brightness(0.9);
+}
+
+#morearrow {
+  margin-left: 51%;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 6;
+  grid-column-end: 7;
+  display: flex;
+  align-items: center;
+  /* justify-content: end; */
+  transition: transform 0.1s ease-in-out;
+}
+
+#morearrow:hover {
+  transform: translateX(13%) scale(1.2);
+}
+
+#Messages {
+  margin-left: 45.5%;
+  font-family: "Poppins";
+  padding-top: 4%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  /* justify-self: center; */
+  font-size: 81.25%;
+}
+
+#Telegram {
+  margin-left: 47.6%;
+  font-family: "Poppins";
+  padding-top: 4%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  /* justify-self: center; */
+  font-size: 81.25%;
+}
+
+#Twitter {
+  margin-left: 61%;
+  font-family: "Poppins";
+  padding-top: 4%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  /* justify-self: center; */
+  font-size: 81.25%;
+}
+
+#Mail {
+  margin-left: 72.8%;
+  font-family: "Poppins";
+  padding-top: 4%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  /* justify-self: center; */
+  font-size: 81.25%;
+}
+
+#Whatsapp {
+  margin-left: 44.5%;
+  font-family: "Poppins";
+  padding-top: 4%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 5;
+  grid-column-end: 6;
+  /* justify-self: center; */
+  font-size: 81.25%;
+}
+
+#copylink {
+  grid-row-start: 4;
+  grid-row-end: 5;
+  grid-column-start: 1;
+  grid-column-end: 7;
+  height: 40%;
+  width: 75%;
+  background-color: #e0e0e0;
+  border-radius: 11px;
+  justify-self: center;
+  align-self: center;
+  border: 2px solid #ffffff;
+  /* box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.125); */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+}
+
+#copybutton {
+  margin-left: 81.5%;
+  height: 88%;
+  width: 18%;
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#copybutton p {
+  font-size: 120.5%;
+  transition: filter 0.7s ease-in-out;
+}
+
+#copybutton:hover {
+  filter: brightness(0.8);
+}
