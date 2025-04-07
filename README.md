@@ -41,12 +41,12 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 - `ShareCardProject.html` – main HTML structure
 - `ShareCardProject.css` – styling for the share card
 - `assets`
-    ├── copy-icon.png
-    ├── whatsapp-icon.png
-    ├── telegram-icon.png
-    ├── twitter-icon.png
-    ├── message-icon.png
-    ├── mail-icon.png
+-   ├── copy-icon.png
+-   ├──whatsapp-icon.png
+-   ├── telegram-icon.png
+-   ├──twitter-icon.png
+-   ├──message-icon.png
+-   ├──mail-icon.png
 - `LICENSE` – MIT License
 - `README.md` – this file
 
