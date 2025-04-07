@@ -38,9 +38,9 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ## Files Included
 
-- `index.html` – main HTML structure
-- `style.css` – styling for the share card
-- `preview.png` – project screenshot
+- `ShareCardProject.html` – main HTML structure
+- `ShareCardProject.css` – styling for the share card
+- `assets` – project screenshot
 - `LICENSE` – MIT License
 - `README.md` – this file
 
