@@ -38,9 +38,9 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 - `index.html` – main HTML structure
 - `style.css` – styling for the share card
-- `ASSETS` - icons png
+- `ASSETS` - icons and preview image
 - `LICENSE` – MIT License
-- `README.md` – this file
+- `README.md` – You're reading it!
 
 ---
 
