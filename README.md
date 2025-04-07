@@ -65,6 +65,6 @@ You are free to use it in personal or commercial projects — just give proper c
 ## Author
 
 Made by **Gurshan Singh**  
-GitHub: [@gurshansinghgithub](https://github.com/gurshansinghgithub)
+GitHub: https://github.com/Gurshxns
 
 If you liked this project, please ⭐ the repo!
