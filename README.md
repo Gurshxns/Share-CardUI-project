@@ -40,7 +40,7 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 - `ShareCardProject.html` – main HTML structure
 - `ShareCardProject.css` – styling for the share card
-- `assets` - icons png
+- `ASSETS` - icons png
 - `LICENSE` – MIT License
 - `README.md` – this file
 
