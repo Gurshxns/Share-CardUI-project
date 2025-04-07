@@ -10,9 +10,7 @@ It displays a pop-up card with sharing options like WhatsApp, Telegram, Twitter,
 
 ## Preview
 
-
-
-
+![Project Preview](ASSETS/preview.png)
 
 ---
 
